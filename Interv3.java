@@ -27,6 +27,7 @@ public class Interv3 {
     
     Interv3 g = new Interv3();
     System.out.println(g.f(4));
+    System.out.println(g.f(6));
      
 } 
 }
