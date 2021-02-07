@@ -9,7 +9,7 @@ public class Nemo{
     }
 
     public static void main(String[] args) {
-        String b[] = { "nemo" };
+        String b[] = { "nemo","hello","bob","david","barley","sweets","myuko" };
         long startTime = System.nanoTime();
         long endTime = System.nanoTime();
         long timeElapsed = endTime - startTime;
